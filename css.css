@@ -1,0 +1,6 @@
+.hola{
+    display: inline-block; margin: 0; padding: 5px; width: 100px; height: auto; border: 1px dotted #aea; text-align: center;
+}
+body{
+    margin: 0;
+}
